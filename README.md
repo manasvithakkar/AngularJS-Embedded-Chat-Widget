@@ -18,5 +18,4 @@ Inside Body:
 <div  ng-controller = "chatCtrl" dynamic="html" class="chatWidget"></div>
 
 ```
-(Will add Angular directives for adding the CSS links and script tags dynamically in the next commit.)
 
